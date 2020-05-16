@@ -1,5 +1,5 @@
 {
-  "name": "stf-browser-db",
+  "name": "@devicefarmer/stf-browser-db",
   "version": "1.0.2",
   "description": "A simple browser database with icons for STF.",
   "keywords": [
