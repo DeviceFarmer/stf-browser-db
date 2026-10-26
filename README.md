@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **This repository is archived.** The browser inventory and icons now live in STF itself, in [`res/common/browsers`](https://github.com/DeviceFarmer/stf/tree/master/res/common/browsers), starting with [STF 3.9.0](https://github.com/DeviceFarmer/stf/releases/tag/v3.9.0). The `@devicefarmer/stf-browser-db` package on npm is deprecated and won't get further updates.
+
 # stf-browser-db
 
 **stf-browser-db** provides the simple browser database used by [STF](https://github.com/openstf/stf). While it aims to be platform agnostic, we have only sampled Android browsers so far.
